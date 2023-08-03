@@ -12,7 +12,7 @@ router.get('*', (req, res) => {
 
 
 // GET Route for retrieving all the notes
-router.get('/notes', (req, res) => {
+router.get("/lib/notes.js", (req, res) => {
     res.sendFile(path.join(__dirname, '/public/notes.html'));
 });
 

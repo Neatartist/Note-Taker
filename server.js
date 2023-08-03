@@ -9,7 +9,7 @@ app.use(express.static('public'));
 app.use(express.urlencoded({extended: true}));
 // parse incoming json data
 app.use(express.json());
-app.use('/api', apiRoutes);
+app.use("/api", apiRoutes);
 app.use('/', htmlRoutes);
 
 app.listen(PORT, () => {

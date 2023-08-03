@@ -35,3 +35,6 @@ Github repo: https://github.com/Neatartist/Note-Taker.git
 ```
 ## Screenshots
 
+![Alt text](public/assets/images/_C__Users_jvank_Documents_UCF_homework_Note-Taker_public_notes.html.png)
+
+![Alt text](public/assets/images/_C__Users_jvank_Documents_UCF_homework_Note-Taker_public_index.html.png)
